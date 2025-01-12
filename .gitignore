@@ -1,3 +1,5 @@
 .venv
 .pytest_cache
 reports/
+.idea
+__pycache__
