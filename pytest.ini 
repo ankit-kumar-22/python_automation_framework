@@ -1,0 +1,5 @@
+[pytest]
+markers =
+    ui: mark a test as a UI test
+    api: mark a test as an API test
+    smoke: mark a test as part of the smoke suite

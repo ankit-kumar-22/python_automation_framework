@@ -1,0 +1,8 @@
+urls:
+  BASE_URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  API_URL: https://catfact.ninja
+accounts:
+  PASSWORD: admin123
+  USERNAME: Admin
+browser:
+  browser_name: chrome
